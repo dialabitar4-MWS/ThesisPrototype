@@ -167,8 +167,9 @@ The `reports/metrics_summary.json` includes:
 
 For access to intermediate checkpoints or data subsets:  
 **Diala Bitar**  
-Email: your.email@example.com  
+Email:   dialabitar4@gmail.com
 Institution: Syrian Virtual University
 Year: 2025  
 
 ---
+
