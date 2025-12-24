@@ -167,9 +167,8 @@ The `reports/metrics_summary.json` includes:
 
 For access to intermediate checkpoints or data subsets:  
 **Diala Bitar**  
-Email:   dialabitar4@gmail.com
+Email: Diala_227466@svuonline.org  
 Institution: Syrian Virtual University
 Year: 2025  
 
 ---
-
